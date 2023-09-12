@@ -12,7 +12,7 @@ programa {
   }
 
   funcao dividir(real numero1, real numero2){
-    se(numero1 != 0){
+    se(numero2 != 0){
       retorne numero1 / numero2
     }
     senao{
